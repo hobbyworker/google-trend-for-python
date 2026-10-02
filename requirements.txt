@@ -1,0 +1,5 @@
+# pytrends 4.9.2 is the last release (April 2023).
+pytrends==4.9.2
+# pandas 3 breaks multirange_interest_over_time (Pytrends 3).
+pandas==2.3.3
+matplotlib==3.10.9
